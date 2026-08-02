@@ -27,6 +27,10 @@ Website: github.com
 
 Generated Password: aB7xK9LmP2Qz
 Password Saved!
+
+## Author
+
+Shashwati Pingalkar
 ```
 
 The password is saved in `passwords.txt` as:
